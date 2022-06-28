@@ -2,7 +2,7 @@ let userName = "Alex";
 
 userName ? console.log(`Hello, ${userName}!`) : console.log("Hello!");
 
-let userQuestion = "Is my baby a girl?";
+let userQuestion = "Is my baby a girl?"; //change question to your own
 
 console.log(userQuestion);
 
